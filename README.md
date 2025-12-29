@@ -1,6 +1,6 @@
 # 👻 Spooky Author Identification: NLP Model Comparison
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Ensemble-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
