@@ -13,7 +13,7 @@ This project aims to identify the author of horror stories based on text excerpt
 
 The goal is to minimize **Multi-class Logarithmic Loss (Log Loss)**. The project compares a strong Classical Machine Learning Baseline against a Deep Learning approach.
 
-## 🧪 Methodology & Experiments
+## Methodology & Experiments
 
 ### 1. Classical Machine Learning (The Robust Baseline)
 We implemented a **Voting Classifier Ensemble (Soft Voting)** combining three distinct algorithms to create a strong baseline:
