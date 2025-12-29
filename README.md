@@ -63,3 +63,5 @@ model = Sequential([
     # 5. Output probabilities for 3 Authors
     Dense(3, activation='softmax')
 ])
+---
+**Created by Wyena Suilianty**
