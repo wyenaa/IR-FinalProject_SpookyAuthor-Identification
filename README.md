@@ -44,7 +44,6 @@ The table below summarizes the validation results. The Deep Learning model succe
 ## Deep Learning Architecture Details
 
 The winning model uses the following structure:
-
 ```python
 model = Sequential([
     # 1. Maps words to 100-dim vectors (Semantic Understanding)
@@ -63,5 +62,6 @@ model = Sequential([
     # 5. Output probabilities for 3 Authors
     Dense(3, activation='softmax')
 ])
----
-**Created by Wyena Suilianty**
+
+
+
